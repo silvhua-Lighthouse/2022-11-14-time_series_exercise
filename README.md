@@ -1,2 +1,2 @@
-# Timw Series Exercises
+# Time Series Exercises
 All exercises for Time Series Analysis
